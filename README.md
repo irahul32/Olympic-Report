@@ -1,6 +1,7 @@
 # Olympic-Report
 ![oly_img](https://github.com/user-attachments/assets/88bb9162-96d7-4f42-90cf-f68f70529bec)
 Welcome to the Olympics Analysis Dashboard project! This interactive Power BI dashboard provides in-depth analysis of Olympic data from 1896 to 2020. Utilizing an open-source dataset, the dashboard offers insightful visualizations and interactive features to explore historical trends, athlete performances, country statistics, and more.
+[➥ Live Demo](https://app.powerbi.com/view?r=eyJrIjoiZTk0NTgzZjEtMzE2MS00NWUyLWIzZGMtNjFkOTkyN2JiZDVlIiwidCI6IjNjYWNjYzA2LTY3ZmEtNDdjZS05YzVhLTIyNDM2OWUxNzZlMyJ9)
 # Features
 - Interactive Dashboard: Dive into the world of Olympics with an engaging and user-friendly Power BI dashboard.
 - Historical Trends: Analyze the evolution of various sports, countries' participation, and medal distributions over the years.
